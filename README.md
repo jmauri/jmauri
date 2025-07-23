@@ -1,6 +1,6 @@
 # 👋 Hola, soy Mauricio Avendaño
 
-Soy ingeniero de sistemas apasionado por el desarrollo backend y la automatización con contenedores. Me encanta enseñar programación y bases de datos a jóvenes.
+Soy ingeniero de sistemas y telecomunicaciones apasionado por el desarrollo backend y la automatización con contenedores. Me encanta aprender y compartir mis conocimientos.
 
 ---
 
@@ -9,7 +9,6 @@ Soy ingeniero de sistemas apasionado por el desarrollo backend y la automatizaci
 ### 🧠 Lenguajes de programación:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### 🗄️ Bases de datos:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -29,7 +28,6 @@ Soy ingeniero de sistemas apasionado por el desarrollo backend y la automatizaci
 
 ## 🧑‍🏫 Experiencia destacada
 
-- 👨‍🏫 Docente de programación orientada a objetos y bases de datos relacionales.
 - 📦 Desarrollo de microservicios con Spring Boot + PostgreSQL en Docker.
 - 🛠️ Automatización de entornos de desarrollo con contenedores.
 - 🧪 Integración de APIs REST con FastAPI y controladores web.
@@ -37,6 +35,4 @@ Soy ingeniero de sistemas apasionado por el desarrollo backend y la automatizaci
 ---
 
 ## 📫 ¿Quieres contactarme?
-Puedes escribirme a: **tuemail@ejemplo.com**
-
-O visitar mi portafolio: [https://tu-portafolio.com](https://tu-portafolio.com)
+Puedes escribirme a: **jmauricio@icloud.com**
